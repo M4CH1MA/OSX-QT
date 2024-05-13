@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="icon_conCli">
+    <file>icon/consultar.png</file>
+  </qresource>
+</RCC>

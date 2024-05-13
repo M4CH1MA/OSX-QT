@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="icon_delCli">
+    <file>icon/excluir.png</file>
+  </qresource>
+</RCC>

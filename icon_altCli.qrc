@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="icon_altCli">
+    <file>icon/alterar.png</file>
+  </qresource>
+</RCC>
